@@ -4,7 +4,6 @@
     android:layout_height="wrap_content"
     android:layout_marginTop="@dimen/normal_50"
     app:cardCornerRadius="@dimen/normal_100"
-    app:cardBackgroundColor="@color/light_lime"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <androidx.constraintlayout.widget.ConstraintLayout
