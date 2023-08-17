@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">weather-app</string>
+    <string name="enterview_error_enter_the_city">Enter the City</string>
+    <string name="button_search">Search</string>
+    <string name="text_error_connection_error">Connection error</string>
+    <string name="text_error_city_unknown">There is no weather forecast for this city</string>
+    <string name="text_error_error_unknown">Error</string>
+    <string name="forecast_item_description">Description:</string>
+    <string name="forecat_item_temperature">Temperature:</string>
+    <string name="forecast_item_speed_of_wind">Speed of wind:</string>
+    <string name="forecast_item_humidity">Humidity:</string>
+    <string name="edit_text_hint">Enter the city</string>
+</resources>
